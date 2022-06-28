@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website | Katherine McLaughlin</title>
+    <link>https://krmclaughlin.github.io/tag/website/</link>
+      <atom:link href="https://krmclaughlin.github.io/tag/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Website</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krmclaughlin.github.io/media/logo_hueea2d4b10aabf56b2f463cf4a46fac98_191416_300x300_fit_lanczos_3.png</url>
+      <title>Website</title>
+      <link>https://krmclaughlin.github.io/tag/website/</link>
+    </image>
+    
+    <item>
+      <title>The following posts were helpful to me as I was developing this website</title>
+      <link>https://krmclaughlin.github.io/posts/helpful-links/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/posts/helpful-links/</guid>
+      <description>&lt;h2 id=&#34;general-setup&#34;&gt;General Setup&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.statslab.cam.ac.uk/~qz280/post/migrating/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.statslab.cam.ac.uk/~qz280/post/migrating/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/t/howto-install-hugo-on-mac/768&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://discourse.gohugo.io/t/howto-install-hugo-on-mac/768&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;troubleshooting-error-messages&#34;&gt;Troubleshooting Error Messages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/meihei/articles/32bb275f71e938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://zenn.dev/meihei/articles/32bb275f71e938&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iphysresearch.github.io/blog/post/writting-markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://iphysresearch.github.io/blog/post/writting-markdown/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

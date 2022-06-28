@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | Katherine McLaughlin</title>
+    <link>https://krmclaughlin.github.io/tag/covid-19/</link>
+      <atom:link href="https://krmclaughlin.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 16:20:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krmclaughlin.github.io/media/logo_hueea2d4b10aabf56b2f463cf4a46fac98_191416_300x300_fit_lanczos_3.png</url>
+      <title>COVID-19</title>
+      <link>https://krmclaughlin.github.io/tag/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Targeted Random Door-To-Door Sampling Design for COVID-19 Informed by Community Wastewater</title>
+      <link>https://krmclaughlin.github.io/talks/jsm2022/</link>
+      <pubDate>Sun, 07 Aug 2022 16:20:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/talks/jsm2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

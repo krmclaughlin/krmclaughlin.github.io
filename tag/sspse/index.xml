@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSPSE | Katherine McLaughlin</title>
+    <link>https://krmclaughlin.github.io/tag/sspse/</link>
+      <atom:link href="https://krmclaughlin.github.io/tag/sspse/index.xml" rel="self" type="application/rss+xml" />
+    <description>SSPSE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krmclaughlin.github.io/media/logo_hueea2d4b10aabf56b2f463cf4a46fac98_191416_300x300_fit_lanczos_3.png</url>
+      <title>SSPSE</title>
+      <link>https://krmclaughlin.github.io/tag/sspse/</link>
+    </image>
+    
+    <item>
+      <title>Populations size estimations using SS-PSE among men who have sex with men in four European cities: How many MSM are living with HIV?</title>
+      <link>https://krmclaughlin.github.io/publication/ejph/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/ejph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population size estimations among hidden populations using respondent-driven sampling surveys: Case studies from Armenia</title>
+      <link>https://krmclaughlin.github.io/publication/armenia1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/armenia1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring a hidden population: A novel technique to estimate the population size of women with sexual violence related pregnancies in South Kivu Province, Democratic Republic of Congo</title>
+      <link>https://krmclaughlin.github.io/publication/svrp/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/svrp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel method for estimating the size of hidden populations using respondent-driven sampling data: Case examples from Morocco</title>
+      <link>https://krmclaughlin.github.io/publication/morocco/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/morocco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

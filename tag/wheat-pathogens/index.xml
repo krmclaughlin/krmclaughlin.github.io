@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wheat Pathogens | Katherine McLaughlin</title>
+    <link>https://krmclaughlin.github.io/tag/wheat-pathogens/</link>
+      <atom:link href="https://krmclaughlin.github.io/tag/wheat-pathogens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wheat Pathogens</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krmclaughlin.github.io/media/logo_hueea2d4b10aabf56b2f463cf4a46fac98_191416_300x300_fit_lanczos_3.png</url>
+      <title>Wheat Pathogens</title>
+      <link>https://krmclaughlin.github.io/tag/wheat-pathogens/</link>
+    </image>
+    
+    <item>
+      <title>Phosphorus supply does not affect Fusarium crown rot of winter wheat</title>
+      <link>https://krmclaughlin.github.io/publication/wheat3/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/wheat3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaction of winter wheat and barley cultivars to Fusarium pseudograminearum-innoculated fields in the dryland Pacific Northwest, USA</title>
+      <link>https://krmclaughlin.github.io/publication/wheat2/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/wheat2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population dynamics of wheat root pathogens under different tillage systems in NE Oregon</title>
+      <link>https://krmclaughlin.github.io/publication/wheat1/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/wheat1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prevalence Estimation | Katherine McLaughlin</title>
+    <link>https://krmclaughlin.github.io/tag/prevalence-estimation/</link>
+      <atom:link href="https://krmclaughlin.github.io/tag/prevalence-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prevalence Estimation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krmclaughlin.github.io/media/logo_hueea2d4b10aabf56b2f463cf4a46fac98_191416_300x300_fit_lanczos_3.png</url>
+      <title>Prevalence Estimation</title>
+      <link>https://krmclaughlin.github.io/tag/prevalence-estimation/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian framework for modelling the preferential selection process in respondent-driven sampling</title>
+      <link>https://krmclaughlin.github.io/publication/rcps/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://krmclaughlin.github.io/publication/rcps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
