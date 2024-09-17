@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "krmclaughlin.github.io"
+  title: "Katherine R. McLaughlin"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: publication.qmd
+        text: Publications
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

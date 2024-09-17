@@ -1,11 +1,35 @@
 ---
-title: "krmclaughlin.github.io"
+title: "Katherine R. McLaughlin"
+image: Images/avatar.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/katherine-r-mclaughlin-617824b0/
+    - text: GitHub
+      href: https://github.com/krmclaughlin
+    - text: Email
+      href: mailto:katherine.mclaughlin@oregonstate.edu
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Dr. McLaughlin is an Associate Professor in the Department of Statistics at Oregon State University (OSU) and has an adjunct appointment in Biostatistics in the College of Health (also at OSU). She is the Director of the Survey Research Center (SRC).
 
-```{r}
-1 + 1
-```
+She received her PhD in Statistics in 2016 from the University of California, Los Angeles. Her research interests focus broadly on sampling methodology, social network analysis, and social science applications of statistics, particularly for hidden populations. Dr. McLaughlin is a member of the Hard-to-Reach Population Methods Research Group (HPMRG) and consults on design and analysis for a number of sampling-related projects, including for trafficked populations, populations at high risk for HIV/AIDS, and COVID-19 prevalence studies.
+
+Download my CV.
+
+## Interests
+
+- Sampling Methodology
+- Social Network Analysis
+- Public Health Applications of Statistics
+- Social Science Applications of Statistics
+
+## Education
+
+- PhD in Statistics, 2016 (University of California, Los Angeles)
+- BA in Statistics, 2011 (University of California, Berkeley)
+- BA in Classical Civilization, 2011 (University of California, Berkeley)
