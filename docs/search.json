@@ -138,5 +138,19 @@
     "title": "Research",
     "section": "Collaborative Research in Agricultural Sciences: As an applied statistician, I collaborate on a number of interdisciplinary projects and provide support for statistical modeling and analysis, particularly using linear mixed effects models. I highlight results from long-term collaborations in the areas of crop and soil science and horticulture.",
     "text": "Collaborative Research in Agricultural Sciences: As an applied statistician, I collaborate on a number of interdisciplinary projects and provide support for statistical modeling and analysis, particularly using linear mixed effects models. I highlight results from long-term collaborations in the areas of crop and soil science and horticulture."
+  },
+  {
+    "objectID": "research.html#network-methodology-for-social-sciences",
+    "href": "research.html#network-methodology-for-social-sciences",
+    "title": "Research",
+    "section": "Network Methodology for Social Sciences",
+    "text": "Network Methodology for Social Sciences\nI am broadly interested in network analysis for social sciences, focusing on missing data and measurement error issues in the context of dependent data and sampling challenges that arise for networks. Social network data present issues for traditional analysis because of the complex dependencies that exist between individuals as well as the propensity for measurement error that can induce bias. With co-authors from a variety of disciplines, I have developed a model for error-prone responses due to memory recall in the context of academic collaboration networks, a method to assess trends in co-publication disparities by race and gender over time among academics, and modeled the effect of resource diversity and productivity on household position in Alaskan food sharing networks."
+  },
+  {
+    "objectID": "research.html#collaborative-research-in-agricultural-sciences",
+    "href": "research.html#collaborative-research-in-agricultural-sciences",
+    "title": "Research",
+    "section": "Collaborative Research in Agricultural Sciences",
+    "text": "Collaborative Research in Agricultural Sciences\nAs an applied statistician, I collaborate on a number of interdisciplinary projects and provide support for statistical modeling and analysis, particularly using linear mixed effects models. I highlight results from long-term collaborations in the areas of crop and soil science and horticulture."
   }
 ]
